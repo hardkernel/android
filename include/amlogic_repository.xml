@@ -31,7 +31,6 @@
   <project name="libdmxresconf" path="vendor/amlogic/reference/libdmxresconf" remote="trunk" upstream="refs/heads/openlinux/ott/u-amlogic" dest-branch="refs/heads/openlinux/ott/u-amlogic"/>
   <project name="libdvr" path="vendor/amlogic/reference/libdvr" remote="trunk" upstream="refs/heads/openlinux/ott/u-amlogic" dest-branch="refs/heads/openlinux/ott/u-amlogic"/>
   <project name="libsecdmx_release" path="vendor/amlogic/reference/libsecdmx_release" remote="trunk" upstream="refs/heads/openlinux/ott/u-amlogic" dest-branch="refs/heads/openlinux/ott/u-amlogic"/>
-  <project name="linux_amlogic_meson_display" path="hardware/amlogic/hwcomposer/mesondisplay" remote="trunk" upstream="refs/heads/openlinux/ott/u-amlogic" dest-branch="refs/heads/openlinux/ott/u-amlogic"/>
   <project name="linux_amlogic_meson_mali" path="vendor/amlogic/common/gpu-lib" remote="trunk" upstream="refs/heads/openlinux/ott/u-amlogic" dest-branch="refs/heads/openlinux/ott/u-amlogic"/>
   <project name="platform_amlogic_external_libzvbi_src" path="vendor/amlogic/reference/external/libzvbi_src" remote="trunk" upstream="refs/heads/openlinux/ott/u-amlogic" dest-branch="refs/heads/openlinux/ott/u-amlogic"/>
   <project name="u-amlogic/platform/build/bazel_common_rules" path="common/common14-5.15/build/bazel_common_rules" remote="odroid" upstream="amlogic-5.15-dev-u" dest-branch="amlogic-5.15-dev-u"/>
@@ -66,7 +65,6 @@
   <project name="platform_hardware_amlogic_cve_driver" path="hardware/amlogic/cve/driver" remote="trunk" upstream="refs/heads/openlinux/ott/u-amlogic" dest-branch="refs/heads/openlinux/ott/u-amlogic"/>
   <project name="platform_hardware_amlogic_cve_lib" path="hardware/amlogic/cve/lib" remote="trunk" upstream="refs/heads/openlinux/ott/u-amlogic" dest-branch="refs/heads/openlinux/ott/u-amlogic"/>
   <project name="platform_hardware_amlogic_gralloc" path="hardware/amlogic/gralloc" remote="trunk" upstream="refs/heads/openlinux/ott/u-amlogic" dest-branch="refs/heads/openlinux/ott/u-amlogic"/>
-  <project name="platform_hardware_amlogic_hwcomposer" path="hardware/amlogic/hwcomposer" remote="trunk" upstream="refs/heads/openlinux/ott/u-amlogic" dest-branch="refs/heads/openlinux/ott/u-amlogic"/>
   <project name="platform_hardware_amlogic_libencoder" path="vendor/amlogic/common/libencoder" remote="trunk" upstream="refs/heads/openlinux/ott/u-amlogic" dest-branch="refs/heads/openlinux/ott/u-amlogic"/>
   <project name="platform_hardware_amlogic_media_modules" path="common/driver_modules/media_modules" remote="trunk" upstream="refs/heads/openlinux/ott/u-amlogic-5.15" revision="refs/heads/openlinux/ott/u-amlogic-5.15">
     <linkfile src="." dest="common/common14-5.15/driver_modules/media_modules"/>
