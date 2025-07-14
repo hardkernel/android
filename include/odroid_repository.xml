@@ -29,6 +29,7 @@
     <linkfile src="build/mk_script.sh" dest="mk"/>
     <linkfile src="build/mk_script.sh" dest="common/mk"/>
   </project>
+  <project path="external/libubootenv" name="android_external_libubootenv" remote="origin" />
   <project path="external/usb_modeswitch" name="android_external_usb_modeswitch" remote="origin" />
   <project name="android_frameworks_base" path="frameworks/base" remote="origin" groups="pdk-cw-fs,pdk-fs"/>
   <project name="android_frameworks_native" path="frameworks/native" remote="origin" groups="pdk-cw-fs,pdk-fs"/>
