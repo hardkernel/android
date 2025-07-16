@@ -17,6 +17,20 @@
     <linkfile src="tools" dest="build/tools"/>
   </project>
   <project name="android_device_hardkernel_odroidc5" path="device/hardkernel/odroidc5" remote="origin" />
+  <project name="kernel_build" path="common/common14-5.15/build/kernel" remote="origin">
+    <linkfile src="kleaf/bazel.sh" dest="common/common14-5.15/tools/bazel"/>
+    <linkfile src="kleaf/bazel.WORKSPACE" dest="common/common14-5.15/WORKSPACE"/>
+    <linkfile src="build.sh" dest="common/common14-5.15/build/build.sh"/>
+    <linkfile src="build_abi.sh" dest="common/common14-5.15/build/build_abi.sh"/>
+    <linkfile src="build_test.sh" dest="common/common14-5.15/build/build_test.sh"/>
+    <linkfile src="build_utils.sh" dest="common/common14-5.15/build/build_utils.sh"/>
+    <linkfile src="config.sh" dest="common/common14-5.15/build/config.sh"/>
+    <linkfile src="envsetup.sh" dest="common/common14-5.15/build/envsetup.sh"/>
+    <linkfile src="_setup_env.sh" dest="common/common14-5.15/build/_setup_env.sh"/>
+    <linkfile src="multi-switcher.sh" dest="common/common14-5.15/build/multi-switcher.sh"/>
+    <linkfile src="abi" dest="common/common14-5.15/build/abi"/>
+    <linkfile src="static_analysis" dest="common/common14-5.15/build/static_analysis"/>
+  </project>
   <project name="kernel_common" path="common/common14-5.15/common" remote="hardkernel" revision="refs/heads/odroids7d-5.15.y-android" >
     <linkfile src="." dest="common/common14-5.15/.source_date_epoch_dir"/>
   </project>

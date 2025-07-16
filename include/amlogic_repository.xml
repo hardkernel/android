@@ -10,20 +10,6 @@
   <project name="cas_cas-hal" path="vendor/amlogic/reference/external/DTVKit/cas_hal" remote="trunk" upstream="refs/heads/openlinux/ott/u-amlogic" dest-branch="refs/heads/openlinux/ott/u-amlogic"/>
   <project name="device_google_cuttlefish" path="device/google/cuttlefish" groups="device,pdk" upstream="u-tv-keystone-ref-release" remote="amlogic" />
   <project name="dvb" path="vendor/amlogic/reference/external/dvb" remote="trunk" upstream="refs/heads/openlinux/ott/u-amlogic" dest-branch="refs/heads/openlinux/ott/u-amlogic"/>
-  <project name="kernel_build" path="common/common14-5.15/build/kernel" remote="ohd_pdk" upstream="amlogic-5.15-dev-u" dest-branch="amlogic-5.15-dev-u">
-    <linkfile src="kleaf/bazel.sh" dest="common/common14-5.15/tools/bazel"/>
-    <linkfile src="kleaf/bazel.WORKSPACE" dest="common/common14-5.15/WORKSPACE"/>
-    <linkfile src="build.sh" dest="common/common14-5.15/build/build.sh"/>
-    <linkfile src="build_abi.sh" dest="common/common14-5.15/build/build_abi.sh"/>
-    <linkfile src="build_test.sh" dest="common/common14-5.15/build/build_test.sh"/>
-    <linkfile src="build_utils.sh" dest="common/common14-5.15/build/build_utils.sh"/>
-    <linkfile src="config.sh" dest="common/common14-5.15/build/config.sh"/>
-    <linkfile src="envsetup.sh" dest="common/common14-5.15/build/envsetup.sh"/>
-    <linkfile src="_setup_env.sh" dest="common/common14-5.15/build/_setup_env.sh"/>
-    <linkfile src="multi-switcher.sh" dest="common/common14-5.15/build/multi-switcher.sh"/>
-    <linkfile src="abi" dest="common/common14-5.15/build/abi"/>
-    <linkfile src="static_analysis" dest="common/common14-5.15/build/static_analysis"/>
-  </project>
   <project name="kernel_common-modules_virtual-device" path="common/common14-5.15/common-modules/virtual-device" remote="ohd_pdk" upstream="amlogic-5.15-dev-u" dest-branch="amlogic-5.15-dev-u"/>
   <project name="kernel_configs" path="common/common14-5.15/kernel/configs" remote="ohd_pdk" />
   <project name="kernel_prebuilts_build-tools" path="common/common14-5.15/prebuilts/kernel-build-tools" remote="ohd_pdk" />
