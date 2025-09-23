@@ -35,6 +35,7 @@
   <project path="hardware/libhardware" name="android_hardware_libhardware" remote="origin" groups="pdk"/>
   <project path="hardware/rockchip/audio" name="android_hardware_rockchip_audio" remote="origin" />
   <project path="hardware/rockchip/camera" name="android_hardware_rockchip_camera" remote="origin" />
+  <project path="hardware/rockchip/hwcomposer/drmhwc2" name="android_hardware_rockchip_hwcomposer_drmhwc2" remote="origin" />
   <project path="hardware/rockchip/librga" name="android_hardware_rockchip_librga" remote="origin" />
   <project path="hardware/rockchip/light_aidl" name="android_hardware_rockchip_light_aidl" remote="origin" />
   <project path="hardware/wifi/realtek/drivers/rtl8812au" name="android_hardware_wifi_realtek_drivers_rtl8812au" remote="origin" />

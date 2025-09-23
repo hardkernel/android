@@ -5,7 +5,6 @@
   <project path="RKTools" name="android_RKTools" remote="rk" revision="refs/tags/android-13.0-mid-rkr6"/>
   <project path="hardware/rockchip/helper" name="android_hardware_rockchip_helper" remote="rk" revision="refs/tags/android-13.0-mid-rkr6" />
   <project path="hardware/rockchip/hwcomposer/drmhwc" name="android_hardware_rockchip_hwcomposer_drmhwc" remote="rk" revision="refs/tags/android-13.0-mid-rkr6" />
-  <project path="hardware/rockchip/hwcomposer/drmhwc2" name="android_hardware_rockchip_hwcomposer_drmhwc2" remote="rk" revision="refs/tags/android-13.0-mid-rkr6" />
   <project path="hardware/rockchip/hwcomposer/einkhwc" name="android_hardware_rockchip_hwcomposer_einkhwc" remote="rk" revision="refs/tags/android-13.0-mid-rkr6" />
   <project path="hardware/rockchip/libgraphicpolicy" name="android_hardware_rockchip_libgraphicpolicy" remote="rk" revision="refs/tags/android-13.0-mid-rkr6" />
   <project path="hardware/rockchip/libhwjpeg" name="android_hardware_rockchip_libhwjpeg" remote="rk" revision="refs/tags/android-13.0-mid-rkr6"/>
