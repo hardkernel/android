@@ -60,6 +60,7 @@
   <project path="packages/apps/TvSettings" name="android_packages_apps_TvSettings" remote="origin" groups="pdk-fs"/>
   <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="origin" groups="pdk-fs"/>
   <project path="packages/apps/Updater" name="android_packages_apps_odroid_updater" remote="origin" />
+  <project name="platform/packages/modules/Connectivity" path="packages/modules/Connectivity" remote="odroid" revision="refs/heads/s905x5m_14.0.0_master" groups="pdk-cw-fs,pdk-fs"/>
   <project path="system/core" name="android_system_core" remote="origin" />
   <project name="android_system_update_engine" path="system/update_engine" groups="pdk" remote="origin" />
   <project path="vendor/amlogic/common" name="android_vendor_amlogic_common" remote="origin" >
