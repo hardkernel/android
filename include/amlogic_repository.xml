@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  <project name="platform_art" path="art" remote="amlogic" />
   <project name="DTVKit_AFD" path="common/driver_modules/DTVKit/AFD" remote="trunk" upstream="refs/heads/openlinux/ott/u-amlogic" dest-branch="refs/heads/openlinux/ott/u-amlogic">
     <linkfile src="." dest="common/common14-5.15/driver_modules/DTVKit/AFD"/>
   </project>
