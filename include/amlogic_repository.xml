@@ -27,6 +27,7 @@
   <project name="platform_external_erofs-utils" path="external/erofs-utils" remote="amlogic" groups="pdk"/>
   <project name="platform_external_dng_sdk" path="external/dng_sdk" remote="amlogic" groups="pdk"/>
   <project name="platform_external_ffmpeg-aml" path="vendor/amlogic/common/external/ffmpeg" remote="trunk" upstream="refs/heads/openlinux/ott/u-amlogic" dest-branch="refs/heads/openlinux/ott/u-amlogic"/>
+  <project name="platform_external_freetype" path="external/freetype" remote="amlogic" />
   <project name="platform_external_giflib" path="external/giflib" remote="amlogic" groups="pdk"/>
   <project name="platform_external_gptfdisk" path="external/gptfdisk" remote="amlogic" groups="pdk"/>
   <project name="platform_external_libaom" path="external/libaom" remote="amlogic" groups="pdk"/>
