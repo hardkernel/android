@@ -51,6 +51,7 @@
   <project path="hardware/amlogic/hwcomposer" name="platform_hardware_amlogic_hwcomposer" remote="origin"/>
   <project path="hardware/amlogic/hwcomposer/mesondisplay" name="linux_amlogic_meson_display" remote="origin"/>
   <project path="hardware/hardkernel/libodroid-gps" name="android_hardware_hardkernel_libodroid-gps" remote="origin" />
+  <project path="hardware/hardkernel/aosp13_gnss_hal" name="aosp13_gnss_hal" remote="origin" />
   <project path="hardware/hardkernel/odroidThings" name="android_hardware_hardkernel_odroidThings" remote="origin" revision="refs/heads/master" />
   <project path="hardware/hardkernel/odroidThings/ring_buffer" name="android_hardware_hardkernel_odroidThings_ring_buffer" remote="origin" revision="refs/heads/master" />
   <project path="hardware/interfaces" name="android_hardware_interfaces" remote="origin" groups="pdk"/>
