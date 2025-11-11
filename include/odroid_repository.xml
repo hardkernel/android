@@ -73,7 +73,7 @@
   <project path="vendor/amlogic/reference/prebuilt/livetv" name="vendor_amlogic_livetv" remote="origin" />
   <project path="vendor/hardkernel/external/boblight" name="android_vendor_hardkernel_external_boblight" remote="origin" revision="refs/heads/master" />
   <project path="vendor/hardkernel/external/can-utils" name="android_vendor_hardkernel_external_can_utils" remote="origin" revision="refs/heads/master" />
-  <project path="vendor/hardkernel/external/wiringPi" name="wiringPi" remote="origin" revision="refs/heads/master" />
+  <project path="vendor/hardkernel/external/wiringPi" name="wiringPi" remote="hardkernel" revision="refs/heads/master" />
   <project path="vendor/hardkernel/framework/things" name="android_vendor_hardkernel_things" remote="origin" revision="refs/heads/android_u_master" />
   <project path="vendor/hardkernel/interfaces" name="android_vendor_hardkernel_interfaces" remote="origin" revision="refs/heads/android_u_master" />
 </manifest>
