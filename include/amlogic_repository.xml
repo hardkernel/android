@@ -105,7 +105,6 @@
   <project name="platform_packages_apps_TV" path="packages/apps/TV" remote="amlogic" groups="pdk"/>
   <project name="platform_packages_apps_ThemePicker" path="packages/apps/ThemePicker" remote="amlogic" groups="pdk-fs"/>
   <project name="platform_packages_apps_Updater" path="vendor/amlogic/reference/apps/Updater" remote="trunk" upstream="refs/heads/openlinux/ott/u-amlogic" dest-branch="refs/heads/openlinux/ott/u-amlogic"/>
-  <project name="platform_packages_modules_Bluetooth" path="packages/modules/Bluetooth" remote="amlogic" groups="pdk"/>
   <project name="plaform_packages_modules_HealthFitness" path="packages/modules/HealthFitness" remote="amlogic" groups="pdk-fs" />
   <project name="platform_packages_modules_IntentResolver" path="packages/modules/IntentResolver" remote="amlogic" groups="pdk" />
   <project name="platform_packages_modules_NetworkStack" path="packages/modules/NetworkStack" remote="amlogic" groups="pdk-cw-fs,pdk-fs"/>
