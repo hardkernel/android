@@ -113,7 +113,6 @@
   <project name="platform_packages_modules_StatsD" path="packages/modules/StatsD" remote="amlogic" groups="pdk-cw-fs,pdk-fs" />
   <project name="platform_packages_modules_Wifi" path="packages/modules/Wifi" remote="amlogic" groups="pdk-cw-fs,pdk-fs"/>
   <project name="platform_packages_providers_DownloadProvider" path="packages/providers/DownloadProvider" remote="amlogic" groups="pdk-cw-fs,pdk-fs" />
-  <project name="platform_packages_providers_MediaProvider" path="packages/providers/MediaProvider" remote="amlogic" groups="pdk-cw-fs,pdk-fs" />
   <project name="platform_packages_providers_TvProvider" path="packages/providers/TvProvider" remote="amlogic" groups="pdk-fs"/>
   <project name="platform_packages_services_Telecomm" path="packages/services/Telecomm" remote="amlogic" groups="pdk-cw-fs,pdk-fs" />
   <project name="platform_packages_services_Telephony" path="packages/services/Telephony" remote="amlogic" groups="pdk-cw-fs,pdk-fs" />

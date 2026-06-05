@@ -63,6 +63,7 @@
   <project path="packages/apps/Updater" name="android_packages_apps_odroid_updater" remote="origin" />
   <project path="packages/modules/Bluetooth" name="platform_packages_modules_Bluetooth" remote="origin" groups="pdk"/>
   <project name="platform/packages/modules/Connectivity" path="packages/modules/Connectivity" remote="odroid" revision="refs/heads/s905x5m_14.0.0_master" groups="pdk-cw-fs,pdk-fs"/>
+  <project name="platform_packages_providers_MediaProvider" path="packages/providers/MediaProvider" remote="origin" revision="refs/heads/s905x5m_14.0.0_master" groups="pdk-cw-fs,pdk-fs" />
   <project path="system/core" name="android_system_core" remote="origin" />
   <project name="android_system_update_engine" path="system/update_engine" groups="pdk" remote="origin" />
   <project path="vendor/amlogic/common" name="android_vendor_amlogic_common" remote="origin" >
